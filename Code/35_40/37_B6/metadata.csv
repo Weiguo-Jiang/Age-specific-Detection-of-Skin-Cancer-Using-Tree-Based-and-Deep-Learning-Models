@@ -1,0 +1,109 @@
+isic_id,attribution,copyright_license,age_approx,anatom_site_general,benign_malignant,clin_size_long_diam_mm,diagnosis_1,image_type,lesion_id,patient_id,sex,tbp_tile_type
+ISIC_0260025,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,anterior torso,benign,3.00,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_0921290,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,4.60,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_1183886,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,lower extremity,benign,2.30,Benign,TBP tile: close-up,IL_1380257,IP_2263019,female,3D: XP
+ISIC_1245277,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,2.90,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_1407194,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,3.20,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_1460542,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,lower extremity,benign,4.00,Benign,TBP tile: close-up,IL_7155399,IP_2263019,female,3D: XP
+ISIC_1664473,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,anterior torso,benign,4.10,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_1857654,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,1.00,Benign,TBP tile: close-up,IL_7201692,IP_2263019,female,3D: XP
+ISIC_2086130,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,upper extremity,benign,4.70,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_2323289,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,anterior torso,benign,5.20,Benign,TBP tile: close-up,IL_4510762,IP_2263019,female,3D: XP
+ISIC_2368398,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,upper extremity,benign,3.30,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_2671743,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,upper extremity,benign,2.70,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_2739290,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,lower extremity,benign,2.70,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_3475945,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,anterior torso,benign,2.90,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_4060485,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,anterior torso,benign,3.70,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_4502619,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,anterior torso,benign,8.70,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_4956116,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,2.60,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_5158922,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,upper extremity,benign,3.00,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_5323439,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,3.20,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_5325387,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,3.00,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_5520410,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,9.50,Benign,TBP tile: close-up,IL_0953217,IP_2263019,female,3D: XP
+ISIC_6020282,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,upper extremity,benign,2.80,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_6139978,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,3.80,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_6615624,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,lower extremity,benign,3.30,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_6891875,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,upper extremity,benign,4.40,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_6976260,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,upper extremity,benign,3.20,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_7086100,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,anterior torso,benign,5.20,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_7713458,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,2.60,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_7875412,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,5.10,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_8124652,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,lower extremity,benign,4.90,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_8402315,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,2.50,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_8543427,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,upper extremity,benign,3.20,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_8879252,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,9.00,Benign,TBP tile: close-up,IL_0435810,IP_2263019,female,3D: XP
+ISIC_9206859,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,posterior torso,benign,4.30,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_9679123,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,upper extremity,benign,3.10,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP
+ISIC_9790689,"Title: ISIC 2024 Basel 
+Source: University Hospital of Basel
+License: Creative Commons Attribution-NonCommercial (CC BY-NC)",CC-BY-NC,35,lower extremity,benign,2.60,Benign,TBP tile: close-up,,IP_2263019,female,3D: XP

@@ -1,0 +1,4 @@
+isic_id,attribution,copyright_license,acquisition_day,age_approx,anatom_site_general,benign_malignant,clin_size_long_diam_mm,concomitant_biopsy,diagnosis_1,diagnosis_confirm_type,image_type,patient_id,sex,tbp_tile_type
+ISIC_0967550,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,4.90,False,Benign,single contributor clinical assessment,TBP tile: close-up,IP_8617720,male,3D: XP
+ISIC_2549778,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,2.71,False,Benign,single contributor clinical assessment,TBP tile: close-up,IP_8617720,male,3D: XP
+ISIC_3919432,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,6.46,False,Benign,single contributor clinical assessment,TBP tile: close-up,IP_8617720,male,3D: XP

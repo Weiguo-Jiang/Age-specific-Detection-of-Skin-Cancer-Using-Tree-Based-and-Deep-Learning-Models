@@ -1,0 +1,48 @@
+isic_id,attribution,copyright_license,acquisition_day,age_approx,anatom_site_general,benign_malignant,clin_size_long_diam_mm,concomitant_biopsy,diagnosis_1,diagnosis_confirm_type,image_type,lesion_id,patient_id,sex,tbp_tile_type
+ISIC_0090538,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,2.62,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_0234933,Courtesy of ACEMID MIA,CC-0,23757,50,upper extremity,benign,4.21,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_0414497,Courtesy of ACEMID MIA,CC-0,23757,50,lower extremity,benign,2.74,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_0457861,Courtesy of ACEMID MIA,CC-0,23757,50,lower extremity,benign,7.23,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_0767029,Courtesy of ACEMID MIA,CC-0,23757,50,lower extremity,benign,2.60,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_0816412,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,2.57,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_0816950,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,2.79,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_0836199,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,3.42,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_0948701,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,4.29,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_1008813,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,2.99,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_1174443,Courtesy of ACEMID MIA,CC-0,23757,50,head/neck,benign,3.29,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_2003836,Courtesy of ACEMID MIA,CC-0,23757,50,upper extremity,benign,7.72,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_2215823,Courtesy of ACEMID MIA,CC-0,23757,50,lower extremity,benign,5.34,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_2966505,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,2.90,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_3127493,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,3.06,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_3363157,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,5.04,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_3410196,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,3.01,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_3982582,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,3.15,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_4003737,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,4.27,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_4047761,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,2.76,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_4793520,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,3.70,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_4820704,Courtesy of ACEMID MIA,CC-0,23757,50,lower extremity,benign,3.46,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_4925457,Courtesy of ACEMID MIA,CC-0,23757,50,upper extremity,benign,6.45,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_4940666,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,4.56,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_4965303,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,4.07,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_5230989,Courtesy of ACEMID MIA,CC-0,23757,50,upper extremity,benign,3.37,False,Benign,single contributor clinical assessment,TBP tile: close-up,IL_4008161,IP_8617720,male,3D: XP
+ISIC_5249394,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,2.81,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_5289548,Courtesy of ACEMID MIA,CC-0,23757,50,lower extremity,benign,2.93,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_5881696,Courtesy of ACEMID MIA,CC-0,23757,50,head/neck,benign,2.63,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_5979139,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,2.67,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_6023519,Courtesy of ACEMID MIA,CC-0,23757,50,head/neck,benign,1.64,False,Benign,single contributor clinical assessment,TBP tile: close-up,IL_8559898,IP_8617720,male,3D: XP
+ISIC_6150134,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,4.04,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_6304052,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,3.06,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_6954054,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,3.15,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_7021836,Courtesy of ACEMID MIA,CC-0,23757,50,lower extremity,benign,3.43,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_7041706,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,4.11,False,Benign,single contributor clinical assessment,TBP tile: close-up,IL_7287190,IP_8617720,male,3D: XP
+ISIC_7112597,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,2.55,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_8111337,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,2.50,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_8365483,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,3.61,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_8618154,Courtesy of ACEMID MIA,CC-0,23757,50,lower extremity,benign,3.01,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_8636967,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,2.54,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_8912611,Courtesy of ACEMID MIA,CC-0,23757,50,anterior torso,benign,2.70,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_9435979,Courtesy of ACEMID MIA,CC-0,23757,50,upper extremity,benign,2.52,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_9473435,Courtesy of ACEMID MIA,CC-0,23757,50,lower extremity,benign,3.15,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_9545273,Courtesy of ACEMID MIA,CC-0,23757,50,posterior torso,benign,3.70,False,Benign,single contributor clinical assessment,TBP tile: close-up,IL_6257501,IP_8617720,male,3D: XP
+ISIC_9966367,Courtesy of ACEMID MIA,CC-0,23757,50,lower extremity,benign,3.01,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
+ISIC_9995423,Courtesy of ACEMID MIA,CC-0,23757,50,lower extremity,benign,3.49,False,Benign,single contributor clinical assessment,TBP tile: close-up,,IP_8617720,male,3D: XP
